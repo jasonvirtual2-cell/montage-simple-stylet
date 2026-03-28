@@ -1,0 +1,1 @@
+{\n  \"name\": \"video-editing-app\",\n  \"version\": \"1.0.0\",\n  \"main\": \"index.js\",\n  \"dependencies\": {\n    \"electron\": \"^latest\",\n    \"react\": \"^latest\",\n    \"react-dom\": \"^latest\"\n  },\n  \"scripts\": {\n    \"start\": \"electron .\"\n  }\n}\n
